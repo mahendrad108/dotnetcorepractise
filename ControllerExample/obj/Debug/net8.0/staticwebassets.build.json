@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "fCis1r1DSWrwtPRAeyxCJcL0KYgxxd69iNSNWS+eW3Q=",
+  "Source": "ControllerExample",
+  "BasePath": "_content/ControllerExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllerExample\\wwwroot",
+      "Source": "ControllerExample",
+      "ContentRoot": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\ControllerExample\\wwwroot\\",
+      "BasePath": "_content/ControllerExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\ControllerExample\\wwwroot\\KukkiSubramanyaSwamyTicketBooking.pdf",
+      "SourceId": "ControllerExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\ControllerExample\\wwwroot\\",
+      "BasePath": "_content/ControllerExample",
+      "RelativePath": "KukkiSubramanyaSwamyTicketBooking.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\KukkiSubramanyaSwamyTicketBooking.pdf"
+    }
+  ]
+}
