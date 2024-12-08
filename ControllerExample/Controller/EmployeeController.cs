@@ -10,7 +10,7 @@ namespace ControllerExample
         public IActionResult AddEmployee(Employee employee)
         {
             List<string> errorlist = new List<string>();
-            if (!ModelState.IsValid)
+            if (!ModelState.IsValid) 
             {
                 foreach (var value in ModelState.Values)
                 {
