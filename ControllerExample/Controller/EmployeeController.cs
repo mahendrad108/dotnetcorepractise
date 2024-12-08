@@ -8,7 +8,7 @@ namespace ControllerExample
     { 
         [Route("Registration")]
         public IActionResult AddEmployee(Employee employee)
-        {
+        { 
             List<string> errorlist = new List<string>();
             if (!ModelState.IsValid)
             {
