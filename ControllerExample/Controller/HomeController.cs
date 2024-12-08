@@ -9,7 +9,7 @@ namespace ControllerExample
 {
     public class HomeController : Controller
     {
-        [Route("sayhellow")]               // Attribute routing
+        [Route("sayhellow")]               // Attribute routing 
         [Route("/")]
         public string method1()
         {
