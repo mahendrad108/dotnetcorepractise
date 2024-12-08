@@ -1,0 +1,52 @@
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\bin\Debug\net8.0\appsettings.json
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\bin\Debug\net8.0\ControllerExample.staticwebassets.runtime.json
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\bin\Debug\net8.0\ControllerExample.exe
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\bin\Debug\net8.0\ControllerExample.deps.json
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\bin\Debug\net8.0\ControllerExample.runtimeconfig.json
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\bin\Debug\net8.0\ControllerExample.dll
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\bin\Debug\net8.0\ControllerExample.pdb
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.AssemblyInfoInputs.cache
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.AssemblyInfo.cs
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.csproj.CoreCompileInputs.cache
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\staticwebassets\msbuild.ControllerExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\staticwebassets\msbuild.build.ControllerExample.props
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ControllerExample.props
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ControllerExample.props
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\scopedcss\bundle\ControllerExample.styles.css
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.dll
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\refint\ControllerExample.dll
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.pdb
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.genruntimeconfig.cache
+C:\Users\Mahendra\source\repos\ControllerExample\ControllerExample\obj\Debug\net8.0\ref\ControllerExample.dll
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\bin\Debug\net8.0\appsettings.Development.json
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\bin\Debug\net8.0\appsettings.json
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\bin\Debug\net8.0\ControllerExample.staticwebassets.runtime.json
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\bin\Debug\net8.0\ControllerExample.exe
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\bin\Debug\net8.0\ControllerExample.deps.json
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\bin\Debug\net8.0\ControllerExample.runtimeconfig.json
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\bin\Debug\net8.0\ControllerExample.dll
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\bin\Debug\net8.0\ControllerExample.pdb
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.AssemblyInfoInputs.cache
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.AssemblyInfo.cs
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.csproj.CoreCompileInputs.cache
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.MvcApplicationPartsAssemblyInfo.cache
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\staticwebassets.build.json
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\staticwebassets.development.json
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\staticwebassets\msbuild.ControllerExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\staticwebassets\msbuild.build.ControllerExample.props
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ControllerExample.props
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ControllerExample.props
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\scopedcss\bundle\ControllerExample.styles.css
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.dll
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\refint\ControllerExample.dll
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.pdb
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\ControllerExample.genruntimeconfig.cache
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\ControllerExample\ControllerExample\obj\Debug\net8.0\ref\ControllerExample.dll

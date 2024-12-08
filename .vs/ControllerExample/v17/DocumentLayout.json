@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCB7549-EB9C-4CD5-8B3B-306D81F2EE62}|ControllerExample\\ControllerExample.csproj|d:\\mahendra docs to be submitted\\aspnetcoreandangular\\aspnetcore\\controllerexample\\controllerexample\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCB7549-EB9C-4CD5-8B3B-306D81F2EE62}|ControllerExample\\ControllerExample.csproj|solutionrelative:controllerexample\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCB7549-EB9C-4CD5-8B3B-306D81F2EE62}|ControllerExample\\ControllerExample.csproj|d:\\mahendra docs to be submitted\\aspnetcoreandangular\\aspnetcore\\controllerexample\\controllerexample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCB7549-EB9C-4CD5-8B3B-306D81F2EE62}|ControllerExample\\ControllerExample.csproj|solutionrelative:controllerexample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCB7549-EB9C-4CD5-8B3B-306D81F2EE62}|ControllerExample\\ControllerExample.csproj|d:\\mahendra docs to be submitted\\aspnetcoreandangular\\aspnetcore\\controllerexample\\controllerexample\\controller\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCB7549-EB9C-4CD5-8B3B-306D81F2EE62}|ControllerExample\\ControllerExample.csproj|solutionrelative:controllerexample\\controller\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCB7549-EB9C-4CD5-8B3B-306D81F2EE62}|ControllerExample\\ControllerExample.csproj|d:\\mahendra docs to be submitted\\aspnetcoreandangular\\aspnetcore\\controllerexample\\controllerexample\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCB7549-EB9C-4CD5-8B3B-306D81F2EE62}|ControllerExample\\ControllerExample.csproj|solutionrelative:controllerexample\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCB7549-EB9C-4CD5-8B3B-306D81F2EE62}|ControllerExample\\ControllerExample.csproj|d:\\mahendra docs to be submitted\\aspnetcoreandangular\\aspnetcore\\controllerexample\\controllerexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCB7549-EB9C-4CD5-8B3B-306D81F2EE62}|ControllerExample\\ControllerExample.csproj|solutionrelative:controllerexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCB7549-EB9C-4CD5-8B3B-306D81F2EE62}|ControllerExample\\ControllerExample.csproj|d:\\mahendra docs to be submitted\\aspnetcoreandangular\\aspnetcore\\controllerexample\\controllerexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCB7549-EB9C-4CD5-8B3B-306D81F2EE62}|ControllerExample\\ControllerExample.csproj|solutionrelative:controllerexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\ControllerExample\\Program.cs",
+              "RelativeDocumentMoniker": "ControllerExample\\Program.cs",
+              "ToolTip": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\ControllerExample\\Program.cs",
+              "RelativeToolTip": "ControllerExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:55:04.867Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\ControllerExample\\Controller\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ControllerExample\\Controller\\EmployeeController.cs",
+              "ToolTip": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\ControllerExample\\Controller\\EmployeeController.cs",
+              "RelativeToolTip": "ControllerExample\\Controller\\EmployeeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:47:59.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\ControllerExample\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ControllerExample\\Models\\Employee.cs",
+              "ToolTip": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\ControllerExample\\Models\\Employee.cs",
+              "RelativeToolTip": "ControllerExample\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:44:04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\ControllerExample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ControllerExample\\Models\\Person.cs",
+              "ToolTip": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\ControllerExample\\Models\\Person.cs",
+              "RelativeToolTip": "ControllerExample\\Models\\Person.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:36:32.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\ControllerExample\\Controller\\StoreController.cs",
+              "RelativeDocumentMoniker": "ControllerExample\\Controller\\StoreController.cs",
+              "ToolTip": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\ControllerExample\\Controller\\StoreController.cs",
+              "RelativeToolTip": "ControllerExample\\Controller\\StoreController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:47:19.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\ControllerExample\\Controller\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControllerExample\\Controller\\HomeController.cs",
+              "ToolTip": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\ControllerExample\\ControllerExample\\Controller\\HomeController.cs",
+              "RelativeToolTip": "ControllerExample\\Controller\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:53:08.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
