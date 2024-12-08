@@ -5,7 +5,7 @@ using System.Security.Cryptography.Xml;
 namespace ControllerExample
 {
     public class EmployeeController : Controller
-    {
+    { 
         [Route("Registration")]
         public IActionResult AddEmployee(Employee employee)
         {
