@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MIzE6RTNlA8=",
+  "dgSpecHash": "06+eRxamSBs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\CRUDTests\\CRUDTests.csproj",
+  "projectFilePath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\CRUDTests\\CRUDTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahendra\\.nuget\\packages\\autofixture\\4.17.0\\autofixture.4.17.0.nupkg.sha512",
     "C:\\Users\\Mahendra\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
@@ -157,6 +157,7 @@
     "C:\\Users\\Mahendra\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
     "C:\\Users\\Mahendra\\.nuget\\packages\\serilog.sinks.mssqlserver\\5.7.1\\serilog.sinks.mssqlserver.5.7.1.nupkg.sha512",
     "C:\\Users\\Mahendra\\.nuget\\packages\\serilog.sinks.periodicbatching\\2.3.0\\serilog.sinks.periodicbatching.2.3.0.nupkg.sha512",
+    "C:\\Users\\Mahendra\\.nuget\\packages\\serilog.sinks.seq\\5.1.1\\serilog.sinks.seq.5.1.1.nupkg.sha512",
     "C:\\Users\\Mahendra\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\Mahendra\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Mahendra\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

@@ -2013,11 +2013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Entities\\Entities.csproj",
+      "projectPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Mahendra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Entities\\obj\\",
+      "outputPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1949,11 +1949,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Repositories\\Repositories.csproj",
+      "projectPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Repositories\\Repositories.csproj",
       "packagesPath": "C:\\Users\\Mahendra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Repositories\\obj\\",
+      "outputPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1975,11 +1975,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Entities\\Entities.csproj"
+            "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\RepositoryContracts\\RepositoryContracts.csproj": {
-              "projectPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\RepositoryContracts\\RepositoryContracts.csproj"
+            "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\RepositoryContracts\\RepositoryContracts.csproj": {
+              "projectPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\RepositoryContracts\\RepositoryContracts.csproj"
             }
           }
         }

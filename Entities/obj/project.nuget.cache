@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ADPjizxQEHk=",
+  "dgSpecHash": "4ueuBlrDDPQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Entities\\Entities.csproj",
+  "projectFilePath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahendra\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mahendra\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

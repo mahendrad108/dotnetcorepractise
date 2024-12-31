@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Services\\Services.csproj": {}
+    "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Entities\\Entities.csproj": {
+    "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Mahendra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Entities\\obj\\",
+        "outputPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Exceptions\\Exceptions.csproj": {
+    "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Exceptions\\Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Exceptions\\Exceptions.csproj",
+        "projectUniqueName": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Exceptions\\Exceptions.csproj",
         "projectName": "Exceptions",
-        "projectPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Exceptions\\Exceptions.csproj",
+        "projectPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Exceptions\\Exceptions.csproj",
         "packagesPath": "C:\\Users\\Mahendra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Exceptions\\obj\\",
+        "outputPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Exceptions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\RepositoryContracts\\RepositoryContracts.csproj": {
+    "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\RepositoryContracts\\RepositoryContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\RepositoryContracts\\RepositoryContracts.csproj",
+        "projectUniqueName": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\RepositoryContracts\\RepositoryContracts.csproj",
         "projectName": "RepositoryContracts",
-        "projectPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\RepositoryContracts\\RepositoryContracts.csproj",
+        "projectPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\RepositoryContracts\\RepositoryContracts.csproj",
         "packagesPath": "C:\\Users\\Mahendra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\RepositoryContracts\\obj\\",
+        "outputPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\RepositoryContracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,8 +175,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Entities\\Entities.csproj"
+              "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Entities\\Entities.csproj"
               }
             }
           }
@@ -215,14 +215,14 @@
         }
       }
     },
-    "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\ServiceContracts\\ServiceContracts.csproj": {
+    "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\ServiceContracts\\ServiceContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\ServiceContracts\\ServiceContracts.csproj",
+        "projectUniqueName": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\ServiceContracts\\ServiceContracts.csproj",
         "projectName": "ServiceContracts",
-        "projectPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\ServiceContracts\\ServiceContracts.csproj",
+        "projectPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\ServiceContracts\\ServiceContracts.csproj",
         "packagesPath": "C:\\Users\\Mahendra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\ServiceContracts\\obj\\",
+        "outputPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\ServiceContracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -244,8 +244,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Entities\\Entities.csproj"
+              "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Entities\\Entities.csproj"
               }
             }
           }
@@ -290,14 +290,14 @@
         }
       }
     },
-    "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Services\\Services.csproj": {
+    "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Services\\Services.csproj",
+        "projectPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\Mahendra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Services\\obj\\",
+        "outputPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -319,14 +319,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Exceptions\\Exceptions.csproj": {
-                "projectPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Exceptions\\Exceptions.csproj"
+              "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Exceptions\\Exceptions.csproj": {
+                "projectPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Exceptions\\Exceptions.csproj"
               },
-              "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\RepositoryContracts\\RepositoryContracts.csproj": {
-                "projectPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\RepositoryContracts\\RepositoryContracts.csproj"
+              "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\RepositoryContracts\\RepositoryContracts.csproj": {
+                "projectPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\RepositoryContracts\\RepositoryContracts.csproj"
               },
-              "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\ServiceContracts\\ServiceContracts.csproj"
+              "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\ServiceContracts\\ServiceContracts.csproj"
               }
             }
           }

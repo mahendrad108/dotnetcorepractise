@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qwh5r7DrZ0I=",
+  "dgSpecHash": "fUyYgrfCFfA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Repositories\\Repositories.csproj",
+  "projectFilePath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahendra\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Mahendra\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

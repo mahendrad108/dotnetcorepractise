@@ -13,3 +13,19 @@ C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Lo
 C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Logging\07. Serilog Basics\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
 C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Logging\07. Serilog Basics\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
 C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Logging\07. Serilog Basics\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\bin\Debug\net8.0\ServiceContracts.deps.json
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\bin\Debug\net8.0\ServiceContracts.dll
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\bin\Debug\net8.0\ServiceContracts.pdb
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\bin\Debug\net8.0\Entities.dll
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\bin\Debug\net8.0\Entities.pdb
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.AssemblyReference.cache
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\obj\Debug\net8.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfo.cs
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\obj\Debug\net8.0\ServiceContracts.sourcelink.json
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\obj\Debug\net8.0\ServiceC.04662A29.Up2Date
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\obj\Debug\net8.0\ServiceContracts.dll
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qbuTwUK8L10=",
+  "dgSpecHash": "aYjbXz5Lw+k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\CRUDExample\\CRUDExample.csproj",
+  "projectFilePath": "D:\\Mahendra docs to be submitted\\ASPNETCOREANDAngular\\ASPNETCORE\\07. Serilog Basics\\CRUDExample\\CRUDExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahendra\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
     "C:\\Users\\Mahendra\\.nuget\\packages\\epplus\\6.0.6\\epplus.6.0.6.nupkg.sha512",

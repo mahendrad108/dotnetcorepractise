@@ -13,3 +13,19 @@ C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Lo
 C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Logging\07. Serilog Basics\RepositoryContracts\obj\Debug\net8.0\refint\RepositoryContracts.dll
 C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Logging\07. Serilog Basics\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.pdb
 C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Logging\07. Serilog Basics\RepositoryContracts\obj\Debug\net8.0\ref\RepositoryContracts.dll
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\bin\Debug\net8.0\RepositoryContracts.deps.json
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\bin\Debug\net8.0\RepositoryContracts.dll
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\bin\Debug\net8.0\RepositoryContracts.pdb
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\bin\Debug\net8.0\Entities.dll
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\bin\Debug\net8.0\Entities.pdb
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.csproj.AssemblyReference.cache
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.AssemblyInfoInputs.cache
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.AssemblyInfo.cs
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.sourcelink.json
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\obj\Debug\net8.0\Reposito.28D4BA81.Up2Date
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.dll
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\obj\Debug\net8.0\refint\RepositoryContracts.dll
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\obj\Debug\net8.0\RepositoryContracts.pdb
+D:\Mahendra docs to be submitted\ASPNETCOREANDAngular\ASPNETCORE\07. Serilog Basics\RepositoryContracts\obj\Debug\net8.0\ref\RepositoryContracts.dll

@@ -37,7 +37,7 @@ namespace CRUDTests
    _personRepositoryMock = new Mock<IPersonsRepository>();
    _personsRepository = _personRepositoryMock.Object;
 
-   _personService = new PersonsService(_personsRepository);
+  // _personService = new PersonsService(_personsRepository);
 
    _testOutputHelper = testOutputHelper;
   }
