@@ -1,0 +1,7 @@
+C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Logging\07. Serilog Basics\CRUDTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Logging\07. Serilog Basics\CRUDTests\obj\Debug\net6.0\CRUDTests.csproj.AssemblyReference.cache
+C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Logging\07. Serilog Basics\CRUDTests\obj\Debug\net6.0\MvcTestingAppManifest.json
+C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Logging\07. Serilog Basics\CRUDTests\obj\Debug\net6.0\CRUDTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Logging\07. Serilog Basics\CRUDTests\obj\Debug\net6.0\CRUDTests.AssemblyInfoInputs.cache
+C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Logging\07. Serilog Basics\CRUDTests\obj\Debug\net6.0\CRUDTests.AssemblyInfo.cs
+C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Logging\07. Serilog Basics\CRUDTests\obj\Debug\net6.0\CRUDTests.csproj.CoreCompileInputs.cache

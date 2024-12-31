@@ -1,0 +1,8 @@
+{
+  "CRUDExample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\CRUDExample",
+  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Entities",
+  "Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Repositories",
+  "RepositoryContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\RepositoryContracts",
+  "ServiceContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\ServiceContracts",
+  "Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\Services"
+}

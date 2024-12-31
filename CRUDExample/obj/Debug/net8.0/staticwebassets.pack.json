@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\CRUDExample\\wwwroot\\error.png",
+      "PackagePath": "staticwebassets\\error.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\CRUDExample\\wwwroot\\error.svg",
+      "PackagePath": "staticwebassets\\error.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\CRUDExample\\wwwroot\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\CRUDExample\\wwwroot\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahendra\\Downloads\\AspNetCore-Harsha-main\\AspNetCore-Harsha-main\\19. Logging\\07. Serilog Basics\\CRUDExample\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CRUDExample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CRUDExample.props",
+      "PackagePath": "build\\CRUDExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CRUDExample.props",
+      "PackagePath": "buildMultiTargeting\\CRUDExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CRUDExample.props",
+      "PackagePath": "buildTransitive\\CRUDExample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

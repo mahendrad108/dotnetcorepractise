@@ -1,0 +1,13 @@
+2024-12-26 14:16:18.043 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 14:16:18.089 +05:30 [INF] Hosting environment: Development
+2024-12-26 14:16:18.263 +05:30 [INF] Content root path: C:\Users\Mahendra\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\19. Logging\07. Serilog Basics\CRUDExample\
+2024-12-26 15:46:14.672 +05:30 [INF] User profile is available. Using 'C:\Users\Mahendra\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-26 15:46:15.058 +05:30 [INF] Now listening on: http://localhost:5298
+2024-12-26 15:46:16.773 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5298/ - -
+2024-12-26 15:46:17.059 +05:30 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2024-12-26 15:46:17.176 +05:30 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (CRUDExample)'
